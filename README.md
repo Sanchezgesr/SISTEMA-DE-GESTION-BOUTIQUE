@@ -65,3 +65,7 @@ npm run dev
 - **Gastos**: Registro de egresos para control financiero.
 - **Reportes**: Análisis visual de tendencias de venta.
 - **Configuración**: Personalización del nombre de la boutique y tasas de impuestos.
+
+usuario
+admin@boutique.com
+admin
